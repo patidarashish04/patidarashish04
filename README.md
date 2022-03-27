@@ -2,12 +2,10 @@
 I'm a Nodejs Developer from India. I have experience building and scaling web applications and services in various verticals. I also enjoy building side projects in my free time.
 
 - 🔭 I’m currently working on Nodejs
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning TypeScript, React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Nodejs ,Express , React, Postgresql , MongoDB
 - 📫 How to reach me: patidarashish04@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- monocle_face I'm also learning TypeScript, React
-- briefcase LinkedIn: https://linkedin.com/in/saadpasta
