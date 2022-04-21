@@ -3,7 +3,7 @@ I'm a Nodejs Developer from India. I have experience building and scaling web ap
 
 - 🔭 I’m currently working on **Nodejs**
 - 🌱 I’m currently learning **TypeScript, React**
-- 💬 Ask me about **Nodejs ,Express , React, Postgresql , MongoDB**
+- 💬 Ask me about **Nodejs, Express, React, Postgresql, MongoDB**
 - 📫 How to reach me: **patidarashish04@gmail.com**
 - ⚡ Fun fact: **I think I am funny XD**
 
